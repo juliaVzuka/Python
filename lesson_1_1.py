@@ -1,0 +1,5 @@
+name = input("What's your name? ")
+print('Nice to meet you,', name, "!")
+print()
+age = int(input("How old are you? "))
+print("Wow! I'm", age, "too!")
